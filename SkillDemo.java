@@ -1,1 +1,5 @@
-public class SkillDemo{} // will eddit in vs code
+public class SkillDemo{
+    public static int return1(){
+        return 1;
+    }
+} 
